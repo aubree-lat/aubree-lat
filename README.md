@@ -16,7 +16,7 @@ Pronouns: She/Her or They/Them
 
 ## forms of communication
 
-you can talk to me through:
-discord: aubree.lat
-email (please dont spam me): aubree@aubree.lat
-or join my [**discord server!**](https://discord.aubree.lat)
+- you can talk to me through:
+- discord: aubree.lat
+- email (please dont spam me): aubree@aubree.lat
+- or join my [**discord server!**](https://discord.aubree.lat)
