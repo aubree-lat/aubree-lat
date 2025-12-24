@@ -3,7 +3,7 @@
 High school nerd that does nothing but break the tech acceptable use policy of each damn district i go to :P 
 
 ## Projects I'm proud of
-- [**Kernel's Arcade**](https://ka.aubree.lat) – A unblocked games website that i made for fun, and money. (ADSTERRA STOP FUCKING BANNING MY ACCOUNTS)
+- [**suntree-network**](https://suntree-net.works) – A unblocked games website that i made for fun, and money. (ADSTERRA STOP FUCKING BANNING MY ACCOUNTS)
 - [**My Bio**](https://aubree.lat) - my bio. pretty obvious, (current design by killjuly)
 
 ## What I do
@@ -17,6 +17,6 @@ Pronouns: She/Her or They/Them
 ## forms of communication
 
 - you can talk to me through:
-- discord: aubree.lat
+- discord: ciscoumbrella
 - email (please dont spam me): aubree@aubree.lat
 - or join my [**discord server!**](https://discord.aubree.lat)
