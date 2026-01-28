@@ -4,7 +4,8 @@ High school nerd that does nothing but break the tech acceptable use policy of e
 
 ## Projects I'm proud of
 - [**suntree-network**](https://suntree.network) – A unblocked games website that i made for fun, and money. (ADSTERRA STOP FUCKING BANNING MY ACCOUNTS)
-- [**My Bio**](https://aubree.lat) - my bio. pretty obvious, (current design by killjuly)
+- [**My Bio**](https://aubree.lat) - my bio.
+- [**suntreeAnarchy**] - My MC anarchy server. (you know the deal.) ip: anarchy.suntree.network
 
 ## What I do
 I spend most of my free time either hanging out with my bf or working on suntree-network. (or bedrotting watching tiktok :3)
