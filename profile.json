@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "login": "aubree-lat",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "hai! im ",
+    "name": "aubree",
+    "subtitle": "trans mtf and lesbian (she/her)",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "transgender street"
+      },
+      {
+        "icon": "code",
+        "label": "html and css"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "webdev"
+      },
+      {
+        "icon": "code",
+        "label": "creator of korona.lat"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "linux larp"
+      }
+    ]
+  },
+  "stack": {
+    "title": "what i code in",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "javascript"
+          },
+          {
+            "icon": "brand:css",
+            "label": "css"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "pro rust vibecoder"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "text": "",
+        "icon": "videogame_asset"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/aubreelat"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1325708241769861121/"
+      },
+      {
+        "icon": "sports_esports",
+        "url": "https://korona.lat"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://aubree.wtf",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
